@@ -1,4 +1,4 @@
-# Personal\_Software\_exe
+# Personal\_Software
 
 🌎📦 **常用软件合集**📄
 
